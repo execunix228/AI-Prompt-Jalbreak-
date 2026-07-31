@@ -1,3 +1,5 @@
+🇷🇺 **Русский** | 🇺🇸 [English](README_en.md)
+
 # 🤖 AI Prompt Jailbreak
 
 Сборник промтов от **Telegram: [@Bill_Dill0](https://t.me/Bill_Dill0)**
