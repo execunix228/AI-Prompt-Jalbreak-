@@ -1,3 +1,5 @@
+🇷🇺 [Русский](README.md) | 🇺🇸 **English**
+
 # 🤖 AI Prompt Jailbreak
 
 A collection of AI prompts by **Telegram: [@Bill_Dill0](https://t.me/Bill_Dill0)**
