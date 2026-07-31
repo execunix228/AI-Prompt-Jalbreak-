@@ -26,7 +26,7 @@ MD5:  9c8e84d55e27d85d3555a11b39891fb1
 
 - **There is no license. I threw it away. You're free. 🥰**
 
-## Telegram channel
+## Telegram channel 🛩️
 
 **[Telegramchanneljailbreak](https://t.me/sborjailbreak)**
 
