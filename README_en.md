@@ -24,7 +24,7 @@ MD5:  9c8e84d55e27d85d3555a11b39891fb1
 
 ## 📄 License
 
-- **There is no license. I threw it away. You're free. 🥰**
+- **❗You are fully responsible for all your actions ❗**
 
 ## Telegram channel 🛩️
 
