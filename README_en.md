@@ -1,4 +1,4 @@
-🇷🇺 [Русский](README.md) | 🇺🇸 **English**
+🇷🇺 ***[Русский](README.md)** | 🇺🇸 **[English](README_en.md)**
 
 # 🤖 AI Prompt Jailbreak
 
