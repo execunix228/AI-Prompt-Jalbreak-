@@ -13,13 +13,13 @@
 ## ✅ Проверка на целостность архива
 
 ```text
-CRC32:  0caf06e2
+CRC32:  8f5a3abc
 
-SHA256:  30fdb04bf738f3f683ab72082c07c20bd74f3835922ba5f6ccdaea699274ecd6
+SHA256:  3c114c4fd9fae0dede690623d47f2c62d9de666246efe0ea1430e3ba93170d62  
 
-SHA1:  65613f7cd8360b58aed272748db344204270d21d
+SHA1:  15fad1200a5e6c1727ca5686b401f2eaa677c16d
 
-MD5:  9c8e84d55e27d85d3555a11b39891fb1
+MD5:  3ecf9d2c2331e7ff10d4a0bfd0df0ea8
 ```
 
 ## Лицензия
