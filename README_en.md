@@ -6,20 +6,20 @@ A collection of AI prompts by **Telegram: [@Bill_Dill0](https://t.me/Bill_Dill0)
 
 ## 📦 Contents
 
-- **`TG.BILL_DILL0.zip`** — an archive containing **1606 AI prompts** (and growing). 🥳
+- **`TG.BILL_DILL0.zip`** — an archive containing **1652 AI prompts** (and growing). 🥳
 
 > Enjoy! ♥️
 
 ## ✅ Archive Integrity Check
 
 ```text
-CRC32:  1ec2defa
+CRC32:  5e7eba3f
 
-SHA256:  81aa7cb86acf2355ec0aa03aa3d84231f9978a5054df08c1aeaa445ed8edbd7e  
+SHA256:  9dc1c4c03a9dfe83f55741934c0e52995510ca8c338e10bd630f84dd729778a5  
 
-SHA1:  8f5b142536e15056a7128b1dd950b801af659c8e
+SHA1:  7fb7e4085b896473ea90e7eea38c54dd4391017a
 
-MD5:  2ca11ae10082d6a376ef171ab67f5084
+MD5:  0b881389c978911c003f003a9a67d2e2
 ```
 
 ## 📄 License
